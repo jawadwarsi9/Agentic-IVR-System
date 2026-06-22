@@ -17,7 +17,7 @@ COMPANY KNOWLEDGE:
 - Types: Sedan, SUV, Hatchback, Van, Truck, Pick-Up, Wagon, Coupe
 - Price: under $500 to over $100,000
 - Payment: bank wire transfer (PayPal some countries)
-- Phone: +1 855 602 5011 | Email: info@abg-autos.com
+- Phone: +971 50 715 3811 | Email: sales@abg-autos.com
 
 DECISION SIGNALS — always end reply with exactly one:
 [NEED_RESEARCH: specific query] — need live website data to answer
