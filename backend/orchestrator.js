@@ -1,8 +1,9 @@
 const twilio = require('twilio');
-const redis = require('./services/redis');
+const redis = require('./src/services/redis');
 
-const { runAgent1 } = require('./agents/agent1');
-const { runAgent2 } = require('./agents/agent2');
+const { runAgent1 } = require('./src/agents/agent1');
+const { runAgent2 } = require('./src/agents/agent2');
+const { runAgent3 } = require('./src/agents/agent3');
 
 async function orchestrator(req, res) {
   const twiml = new twilio.twiml.VoiceResponse();
